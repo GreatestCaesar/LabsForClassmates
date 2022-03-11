@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/ferry/Ferry.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ferry/SeaTransport.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/laba_11/laba_6.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/laba_12/Encryption.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shipp/Sailboat.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shipp/Ship.java" charset="windows-1251" />
+  </component>
+</project>
